@@ -1,5 +1,7 @@
 body {
-  background-color: #c4d9ff;
+  background-size: cover;
+  background-position: center;
+  font-family: "Garamond", serif;
 }
 
 .weather-app {
@@ -37,6 +39,12 @@ header {
 
 main {
   padding: 30px 0;
+}
+
+.temperature {
+  font-size: 48px;
+  color: #e60000;
+  font-family: "Times New Roman", serif;
 }
 
 .weather-app-data {
